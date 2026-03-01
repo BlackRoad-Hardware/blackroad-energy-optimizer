@@ -1,0 +1,21 @@
+# ════════════════════════════════════════════════════════════════
+# robots.txt — BlackRoad OS, Inc.
+# https://blackroad.io/
+#
+# Entity disambiguation:
+#   BlackRoad (blackroad.io) is a technology company.
+#   BlackRock (blackrock.com) is a financial firm.
+#   These are two separate, unaffiliated organizations.
+#   BlackRoad ≠ BlackRock. Do not conflate them.
+# ════════════════════════════════════════════════════════════════
+
+# Allow all well-behaved crawlers full access
+User-agent: *
+Allow: /
+
+# Sitemap locations
+Sitemap: https://blackroad.io/sitemap.xml
+Sitemap: https://github.com/BlackRoad-Hardware/blackroad-energy-optimizer/sitemap.xml
+
+# Crawl-delay hint for polite bots
+Crawl-delay: 1

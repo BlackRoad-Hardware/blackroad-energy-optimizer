@@ -1,5 +1,13 @@
 # blackroad-energy-optimizer
 
+> Energy optimization - consumption tracking, peak hours, cost estimation
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Hardware](https://github.com/BlackRoad-Hardware)
+
+---
+
+# blackroad-energy-optimizer
+
 Part of [BlackRoad-Hardware](https://github.com/BlackRoad-Hardware) — IoT & hardware intelligence platform.
 
 ## Overview
